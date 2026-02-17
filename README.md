@@ -3,13 +3,13 @@
 </p>
 
 <p align="center">
-  <strong>Étudiant en Mastère Dev Manager Full Stack</strong>
+  <strong>Actuellement en Bac +4 en Mastère Dev. Manager Full Stack</strong>
 </p>
 
 <p align="center">
   <a href="https://Ibrahimkaramanlian.fr">Portfolio</a> •
-  <a href="https://linkedin.com/in/ibrahim-karamanlian">LinkedIn</a> •
-  <a href="mailto:karamanlian.ibrahim@gmail.com">Contact</a>
+  <a href="linkedin.com/in/ibrahim-karamanlian-496610291n">LinkedIn</a> •
+  <a href="mailto:ibrahim.karamanlian@efrei.net">Contact</a>
 </p>
 
 ---
