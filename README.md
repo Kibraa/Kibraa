@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://Ibrahimkaramanlian.fr">Portfolio</a> •
-  <a href="linkedin.com/in/ibrahim-karamanlian-496610291n">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/ibrahim-karamanlian-496610291/">LinkedIn</a> •
   <a href="mailto:ibrahim.karamanlian@efrei.net">Contact</a>
 </p>
 
@@ -46,5 +46,10 @@
 ---
 
 <p align="center">
-  Passionné par le code et l'automobile.
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Je+code+avec+passion+!;Et+j'adore+apprendre+de+nouveaux+trucs.&center=true&width=400&height=50&color=00b4d8&vCenter=true&pause=1000" alt="Typing SVG" />
+  </a>
+</p>
+<p align="center">
+  ❤️
 </p>
