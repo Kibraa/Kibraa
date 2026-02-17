@@ -34,11 +34,18 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="35" /> GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kibraa&show_icons=true&theme=radical&hide_border=true" height="170" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kibraa&layout=compact&theme=radical&hide_border=true" height="170" alt="Top Langs" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=Kibraa&show_icons=true&theme=radical&hide_border=true" height="170" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kibraa&layout=compact&theme=radical&hide_border=true" height="170" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
