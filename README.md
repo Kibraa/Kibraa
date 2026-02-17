@@ -3,11 +3,11 @@
 </p>
 
 <p align="center">
-  <strong>Actuellement en Bac +4 en Mastère Dev. [cite_start]Manager Full Stack</strong> 
+  <strong>Actuellement en Bac +4 en Mastère Dev. Manager Full Stack</strong>
 </p>
 
 <p align="center">
-  [cite_start]<a href="https://Ibrahimkaramanlian.fr">Portfolio</a> [cite: 19] •
+  <a href="https://Ibrahimkaramanlian.fr">Portfolio</a> •
   <a href="https://www.linkedin.com/in/ibrahim-karamanlian-496610291/">LinkedIn</a> •
   <a href="mailto:ibrahim.karamanlian@efrei.net">Contact</a>
 </p>
@@ -17,7 +17,7 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="35" /> Tech Stack
 
 <p align="center">
-  [cite_start]<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,alpinejs,tailwind,php,symfony,mysql,postgres,nodejs,docker,git,py,bash&perline=9" /> [cite: 30, 32, 34, 36]
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,alpinejs,tailwind,php,symfony,mysql,postgres,nodejs,docker,git,py,bash&perline=9" />
 </p>
 
 ---
@@ -25,9 +25,9 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" width="35" /> Projets
 
 <p align="center">
-  [cite_start]<b>Cloudify</b> : Plateforme de location de nuages (React, Node.js, Docker, CI/CD). [cite: 70, 72] <br>
-  [cite_start]<b>3MECO</b> : Développement d'un site vitrine complet pour une entreprise d'isolation. [cite: 44] <br>
-  [cite_start]<b>Simulation de combat</b> : Application interactive développée en Java (POO). [cite: 64, 65]
+  <b>Cloudify</b> : Plateforme de location de nuages (React, Node.js, Docker, CI/CD). <br>
+  <b>3MECO</b> : Développement d'un site vitrine complet pour une entreprise d'isolation. <br>
+  <b>Simulation de combat</b> : Application interactive développée en Java (POO).
 </p>
 
 ---
@@ -53,5 +53,5 @@
 </p>
 
 <p align="center">
-  [cite_start]<strong>Code is my love language</strong> [cite: 46]
+  <strong>Code is my love language</strong>
 </p>
